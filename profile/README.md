@@ -2,7 +2,7 @@
 
 We're a passionate team of creatives and techies working at Deutsche Bahn providing the [DB UX Design System](https://marketingportal.extranet.deutschebahn.com/marketingportal/Design-Anwendungen/DB-UX-Design-System/Design-fuer-Apps-Web/UI-Komponenten).
 
-The [DB UI ecosystem](https://db-ui.github.io/) are the technical products out of this Design System.
+The [DB UI ecosystem](https://db-ui.github.io/#en) are the technical products out of this Design System.
 
 <!--
 
